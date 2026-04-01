@@ -1,54 +1,38 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://github.com/brayanjt2204">Brayan Jiménez</a> 👋</h1>
-</div>
+<h2 align="center">🚀 Portafolio de Proyectos</h2>
 
-<img src="TU_IMAGEN_LOGO_AQUI" width="100%">
-
-## 🚀 Sobre mí
-
-- 💻 Junior Full Stack Developer  
-- 🎓 Estudiante de Ingeniería en Computación (UCR)  
-- ⚙️ Enfocado en desarrollo web, automatización y sistemas  
-- 📚 Apasionado por aprender nuevas tecnologías constantemente  
-- 🧠 Intereses: Backend, bases de datos y arquitectura de software  
+<p align="center">
+Proyectos desarrollados en Ingeniería de Software, enfocados en soluciones reales, optimización de procesos y desarrollo web moderno.
+</p>
 
 <br>
 
-## 🧨 Proyectos destacados
-
+<!-- PROYECTO PRINCIPAL -->
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">Sistema de Gestión de Actas TCU</h3>
+<td width="100%">
+<h2 align="center">🥇 EDUME CR - Plataforma Educativa</h2>
 <div align="center">
-<a href="https://github.com/TU_REPO_1" target="_blank">
-<img src="https://via.placeholder.com/400x250" width="400" alt="Proyecto TCU">
+<a href="https://github.com/TU_REPO_EDUME" target="_blank">
+<img src="https://via.placeholder.com/900x300" width="90%" alt="EDUME CR">
 </a>
-<p>
-<a href="https://github.com/TU_REPO_1" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>
-Aplicación web para gestionar actas y control de horas de estudiantes en proyectos comunitarios. Incluye gestión de registros, seguimiento y comunicación.
-</p>
-</div>
-</td>
 
-<td width="50%">
-<h3 align="center">Sistema de Inventario</h3>
-<div align="center">
-<a href="https://github.com/TU_REPO_2" target="_blank">
-<img src="https://via.placeholder.com/400x250" width="400" alt="Inventario">
+<br><br>
+
+<a href="https://github.com/TU_REPO_EDUME" target="_blank">
+<img src="https://img.shields.io/badge/VER%20PROYECTO-ff3c00?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+<br><br>
+
 <p>
-<a href="https://github.com/TU_REPO_2" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
+Sistema desarrollado para el <b>Colegio Científico</b> como proyecto principal de Ingeniería de Software.<br>
+Permite la gestión académica integral, control de usuarios, automatización de procesos y mejora en la administración educativa.
 </p>
+
 <p>
-Sistema web para control de inventario en coordinación académica, mejorando el seguimiento de equipos y procesos administrativos.
+🚀 <b>Tecnologías:</b> Java | MySQL | HTML | CSS | JavaScript  
 </p>
+
 </div>
 </td>
 </tr>
@@ -56,29 +40,106 @@ Sistema web para control de inventario en coordinación académica, mejorando el
 
 <br>
 
-## 🛠️ Tecnologías
+<!-- SEGUNDA FILA -->
+<table>
+<tr>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cs,cpp,python,js,html,css,git,mysql,firebase,dotnet" />
-</p>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/brayanjt2204">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brayanjt2204&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanjt2204&layout=compact&langs_count=8&theme=tokyonight"/>
+<td width="50%">
+<h3 align="center">🥈 Sistema de Minutas TCU</h3>
+<div align="center">
+<a href="https://github.com/TU_REPO_TCU" target="_blank">
+<img src="https://via.placeholder.com/400x250" width="100%" alt="Sistema de Minutas">
 </a>
+
+<br><br>
+
+<a href="https://github.com/TU_REPO_TCU" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-00c896?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<p>
+Sistema web para la gestión de <b>minutas y seguimiento de reuniones</b> en proyectos TCU.  
+Facilita el registro, control y organización de información clave.
+</p>
+
+<p>
+⚙️ <b>Tecnologías:</b> C# | SQL Server | HTML | CSS  
+</p>
+
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">🥉 Sistema de Base de Datos</h3>
+<div align="center">
+<a href="https://github.com/TU_REPO_DB" target="_blank">
+<img src="https://via.placeholder.com/400x250" width="100%" alt="Base de Datos">
+</a>
+
+<br><br>
+
+<a href="https://github.com/TU_REPO_DB" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-bd93f9?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<p>
+Diseño e implementación de bases de datos con enfoque en <b>modelado relacional</b>,  
+consultas SQL avanzadas y optimización de rendimiento.
+</p>
+
+<p>
+🗄️ <b>Tecnologías:</b> MySQL | SQL | Modelado ER  
+</p>
+
+</div>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- TERCERA FILA -->
+<table>
+<tr>
+<td width="100%">
+<h3 align="center">📦 Sistema de Inventario</h3>
+<div align="center">
+<a href="https://github.com/TU_REPO_INV" target="_blank">
+<img src="https://via.placeholder.com/900x250" width="90%" alt="Inventario">
+</a>
+
+<br><br>
+
+<a href="https://github.com/TU_REPO_INV" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ffaa00?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<p>
+Sistema para el control y gestión de inventario institucional,  
+permitiendo seguimiento de activos, registros y optimización administrativa.
+</p>
+
+<p>
+📊 <b>Tecnologías:</b> Java | MySQL | HTML | CSS  
+</p>
+
+</div>
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- EXTRA -->
+<h3 align="center">💡 Tecnologías que utilizo</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,html,css,js,python,mysql,git,github" />
 </p>
 
 <br>
 
-## 🌐 Conecta conmigo
-
 <p align="center">
-<a href="mailto:brayanjt2204@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/brayan-jimenez-3116823b5"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/brayanjt2204"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
+🔥 <b>Siempre enfocado en mejorar, aprender nuevas tecnologías y crear soluciones reales.</b>
 </p>
