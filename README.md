@@ -3,8 +3,9 @@
 <hr>
 
 <!-- BANNER -->
+<!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrayanJT/BrayanJT/main/assets/imagen de fondo.png" width="100%" style="max-width:400px; border-radius:12px;">
+<img src="TU_BANNER_AQUI" width="100%" style="max-width:250px; border-radius:12px;">
 </p>
 
 <br>
