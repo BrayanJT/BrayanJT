@@ -4,8 +4,10 @@
 
 <!-- BANNER -->
 <p align="center">
-<img src="imagen de fondo.png" width="100%" style="max-width:1200px;">
+  <img src="https://raw.githubusercontent.com/BrayanJT/BrayanJT/main/assets/imagen.jpg" width="100%" style="max-width:600px; border-radius:12px;">
 </p>
+
+<br>
 
 <br>
 
