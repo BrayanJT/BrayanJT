@@ -76,7 +76,7 @@ Sistema del Colegio Científico orientado a la gestión académica, usuarios y p
 <h3>🥈 Sistema de Minutas TCU</h3>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/BrayanJT/BrayanJT/main/assets/tcu784.png" width="20%" style="max-width:50px; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+ <img src="https://raw.githubusercontent.com/BrayanJT/BrayanJT/main/assets/tcu784.png" width="25%" style="max-width:50px; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </p>
 
 <p>Sistema para gestión de minutas y seguimiento de reuniones.</p>
@@ -106,7 +106,6 @@ Sistema del Colegio Científico orientado a la gestión académica, usuarios y p
 <h3>📦 Sistema de Inventario</h3>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/BrayanJT/BrayanJT/main/assets/ccsanpedro.jpg" width="10%" style="max-width:50px; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
  <img src="https://raw.githubusercontent.com/BrayanJT/BrayanJT/main/assets/inventory-filled-outline-icon-design-illustration-manufacturing-units-symbol-on-white-background-eps-10-file-vector.jpg" width="10%" style="max-width:50px; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </p>
 
