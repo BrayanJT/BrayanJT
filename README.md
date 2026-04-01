@@ -1,10 +1,36 @@
-<h2 align="center">🚀 Portafolio de Proyectos</h2>
+<h1 align="center">Hola, soy <span style="color:#ff3c00;">Brayan Jiménez</span> 👋</h1>
 
+<hr>
+
+<!-- BANNER -->
 <p align="center">
-Proyectos desarrollados en Ingeniería de Software, enfocados en soluciones reales, optimización de procesos y desarrollo web moderno.
+<img src="https://via.placeholder.com/1200x350/ff3c00/ffffff?text=Brayan+Dev" alt="banner" width="100%">
 </p>
 
 <br>
+
+<!-- REDES / STATS -->
+<p align="center">
+<img src="https://img.shields.io/badge/YouTube-En%20progreso-ff0000?style=for-the-badge&logo=youtube&logoColor=white">
+<img src="https://img.shields.io/badge/Twitch-Offline-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-Followers-blue?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/Estado-Activo-00c896?style=for-the-badge">
+</p>
+
+---
+
+<h2>💻 Sobre mí</h2>
+
+<ul>
+<li>⭐ Estudiante de Ingeniería de Software</li>
+<li>💻 Apasionado por el desarrollo web y software</li>
+<li>🚀 Enfocado en crear proyectos reales</li>
+<li>📚 Aprendiendo constantemente nuevas tecnologías</li>
+</ul>
+
+<br>
+
+<h2 align="center">🚀 Proyectos destacados</h2>
 
 <!-- PROYECTO PRINCIPAL -->
 <table>
@@ -13,7 +39,7 @@ Proyectos desarrollados en Ingeniería de Software, enfocados en soluciones real
 <h2 align="center">🥇 EDUME CR - Plataforma Educativa</h2>
 <div align="center">
 <a href="https://github.com/TU_REPO_EDUME" target="_blank">
-<img src="https://via.placeholder.com/900x300" width="90%" alt="EDUME CR">
+<img src="https://via.placeholder.com/900x300" width="90%">
 </a>
 
 <br><br>
@@ -22,15 +48,8 @@ Proyectos desarrollados en Ingeniería de Software, enfocados en soluciones real
 <img src="https://img.shields.io/badge/VER%20PROYECTO-ff3c00?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<br><br>
-
 <p>
-Sistema desarrollado para el <b>Colegio Científico</b> como proyecto principal de Ingeniería de Software.<br>
-Permite la gestión académica integral, control de usuarios, automatización de procesos y mejora en la administración educativa.
-</p>
-
-<p>
-🚀 <b>Tecnologías:</b> Java | MySQL | HTML | CSS | JavaScript  
+Sistema del Colegio Científico orientado a la gestión académica, usuarios y procesos institucionales.
 </p>
 
 </div>
@@ -40,57 +59,28 @@ Permite la gestión académica integral, control de usuarios, automatización de
 
 <br>
 
-<!-- SEGUNDA FILA -->
 <table>
 <tr>
 
 <td width="50%">
 <h3 align="center">🥈 Sistema de Minutas TCU</h3>
 <div align="center">
-<a href="https://github.com/TU_REPO_TCU" target="_blank">
-<img src="https://via.placeholder.com/400x250" width="100%" alt="Sistema de Minutas">
+<a href="https://github.com/TU_REPO_TCU">
+<img src="https://via.placeholder.com/400x250" width="100%">
 </a>
 
-<br><br>
-
-<a href="https://github.com/TU_REPO_TCU" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-00c896?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<p>
-Sistema web para la gestión de <b>minutas y seguimiento de reuniones</b> en proyectos TCU.  
-Facilita el registro, control y organización de información clave.
-</p>
-
-<p>
-⚙️ <b>Tecnologías:</b> C# | SQL Server | HTML | CSS  
-</p>
-
+<p>Sistema para gestión de minutas y seguimiento de reuniones.</p>
 </div>
 </td>
 
 <td width="50%">
 <h3 align="center">🥉 Sistema de Base de Datos</h3>
 <div align="center">
-<a href="https://github.com/TU_REPO_DB" target="_blank">
-<img src="https://via.placeholder.com/400x250" width="100%" alt="Base de Datos">
+<a href="https://github.com/TU_REPO_DB">
+<img src="https://via.placeholder.com/400x250" width="100%">
 </a>
 
-<br><br>
-
-<a href="https://github.com/TU_REPO_DB" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-bd93f9?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<p>
-Diseño e implementación de bases de datos con enfoque en <b>modelado relacional</b>,  
-consultas SQL avanzadas y optimización de rendimiento.
-</p>
-
-<p>
-🗄️ <b>Tecnologías:</b> MySQL | SQL | Modelado ER  
-</p>
-
+<p>Modelado y consultas SQL optimizadas.</p>
 </div>
 </td>
 
@@ -99,31 +89,16 @@ consultas SQL avanzadas y optimización de rendimiento.
 
 <br>
 
-<!-- TERCERA FILA -->
 <table>
 <tr>
 <td width="100%">
 <h3 align="center">📦 Sistema de Inventario</h3>
 <div align="center">
-<a href="https://github.com/TU_REPO_INV" target="_blank">
-<img src="https://via.placeholder.com/900x250" width="90%" alt="Inventario">
+<a href="https://github.com/TU_REPO_INV">
+<img src="https://via.placeholder.com/900x250" width="90%">
 </a>
 
-<br><br>
-
-<a href="https://github.com/TU_REPO_INV" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ffaa00?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<p>
-Sistema para el control y gestión de inventario institucional,  
-permitiendo seguimiento de activos, registros y optimización administrativa.
-</p>
-
-<p>
-📊 <b>Tecnologías:</b> Java | MySQL | HTML | CSS  
-</p>
-
+<p>Control y gestión de inventario institucional.</p>
 </div>
 </td>
 </tr>
@@ -131,8 +106,7 @@ permitiendo seguimiento de activos, registros y optimización administrativa.
 
 <br>
 
-<!-- EXTRA -->
-<h3 align="center">💡 Tecnologías que utilizo</h3>
+<h3 align="center">🧠 Tecnologías</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,cs,cpp,html,css,js,python,mysql,git,github" />
@@ -141,5 +115,5 @@ permitiendo seguimiento de activos, registros y optimización administrativa.
 <br>
 
 <p align="center">
-🔥 <b>Siempre enfocado en mejorar, aprender nuevas tecnologías y crear soluciones reales.</b>
+🔥 Construyendo proyectos reales y mejorando cada día
 </p>
