@@ -75,9 +75,9 @@ Sistema del Colegio Científico orientado a la gestión académica, usuarios y p
 
 <h3>🥈 Sistema de Minutas TCU</h3>
 
-<a href="https://github.com/TU_REPO_TCU">
-<img src="https://via.placeholder.com/500x300" width="100%" style="max-width:400px; border-radius:12px;">
-</a>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/BrayanJT/BrayanJT/main/assets/tcu784.png" width="10%" style="max-width:50px; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</p>>
 
 <p>Sistema para gestión de minutas y seguimiento de reuniones.</p>
 
@@ -88,9 +88,9 @@ Sistema del Colegio Científico orientado a la gestión académica, usuarios y p
 
 <h3>🥉 Sistema de Base de Datos</h3>
 
-<a href="https://github.com/TU_REPO_DB">
-<img src="https://via.placeholder.com/500x300" width="100%" style="max-width:400px; border-radius:12px;">
-</a>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/BrayanJT/BrayanJT/main/assets/sql-developer.png" width="10%" style="max-width:50px; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</p>
 
 <p>Modelado y consultas SQL optimizadas.</p>
 
@@ -105,9 +105,9 @@ Sistema del Colegio Científico orientado a la gestión académica, usuarios y p
 
 <h3>📦 Sistema de Inventario</h3>
 
-<a href="https://github.com/TU_REPO_INV">
-<img src="https://via.placeholder.com/800x300" width="100%" style="border-radius:12px;">
-</a>
+<p align="center">
+ <img src="https://raw.githubusercontent.com/BrayanJT/BrayanJT/main/assets/ccsanpedro.jpg" width="10%" style="max-width:50px; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</p>>
 
 <p>Control y gestión de inventario institucional.</p>
 
