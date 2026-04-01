@@ -4,7 +4,7 @@
 
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrayanJT/BrayanJT/main/assets/imagen de fondo.png" width="100%" style="max-width:600px; border-radius:12px;">
+  <img src="https://raw.githubusercontent.com/BrayanJT/BrayanJT/main/assets/imagen de fondo.png" width="100%" style="max-width:300px; border-radius:12px;">
 </p>
 
 <br>
