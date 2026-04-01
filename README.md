@@ -61,10 +61,9 @@
 
 <br><br>
 
-<a href="https://github.com/TU_REPO_EDUME">
-<img src="https://img.shields.io/badge/VER%20PROYECTO-ff3c00?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TU_REPO/main/assets/ccsanpedro.jpg" width="100%" style="max-width:450px; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+</p>
 <p>
 Sistema del Colegio Científico orientado a la gestión académica, usuarios y procesos institucionales.
 </p>
