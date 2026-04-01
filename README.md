@@ -4,7 +4,7 @@
 
 <!-- BANNER -->
 <p align="center">
-<img src="TU_BANNER_AQUI" width="100%" style="max-width:1200px;">
+<img src="imagen de fondo.png" width="100%" style="max-width:1200px;">
 </p>
 
 <br>
