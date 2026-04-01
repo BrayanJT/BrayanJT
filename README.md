@@ -43,7 +43,9 @@
 
 <h2 align="center">🚀 Proyectos destacados</h2>
 
-<table width="100%" cellspacing="20">
+<div align="center">
+
+<table width="90%" style="max-width:900px;" cellspacing="20">
 <tr>
 
 <!-- EDUME -->
@@ -52,7 +54,7 @@
 <h2>🥇 EDUME CR - Plataforma Educativa</h2>
 
 <a href="https://github.com/TU_REPO_EDUME">
-<img src="https://via.placeholder.com/800x350" width="100%" style="max-width:800px; border-radius:12px;">
+<img src="https://via.placeholder.com/800x350" width="100%" style="border-radius:12px;">
 </a>
 
 <br><br>
@@ -106,7 +108,7 @@ Sistema del Colegio Científico orientado a la gestión académica, usuarios y p
 <h3>📦 Sistema de Inventario</h3>
 
 <a href="https://github.com/TU_REPO_INV">
-<img src="https://via.placeholder.com/800x300" width="100%" style="max-width:800px; border-radius:12px;">
+<img src="https://via.placeholder.com/800x300" width="100%" style="border-radius:12px;">
 </a>
 
 <p>Control y gestión de inventario institucional.</p>
@@ -117,6 +119,7 @@ Sistema del Colegio Científico orientado a la gestión académica, usuarios y p
 
 </table>
 
+</div>
 <br>
 
 <h3 align="center">🧠 Tecnologías</h3>
