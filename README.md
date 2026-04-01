@@ -56,7 +56,7 @@
 <h2>🥇 EDUME CR - Plataforma Educativa</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_REPO/main/assets/ccsanpedro.jpg" width="100%" style="max-width:450px; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+ <img src="https://raw.githubusercontent.com/BrayanJT/BrayanJT/main/assets/ccsanpedro.jpg" width="50%" style="max-width:200px; border-radius:12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
 </p>
 
 <br><br>
