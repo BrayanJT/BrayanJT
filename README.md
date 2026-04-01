@@ -43,15 +43,16 @@
 
 <h2 align="center">🚀 Proyectos destacados</h2>
 
-<!-- PROYECTO PRINCIPAL -->
-<table width="100%">
+<table width="100%" cellspacing="20">
 <tr>
-<td align="center">
+
+<!-- EDUME -->
+<td colspan="2" align="center">
 
 <h2>🥇 EDUME CR - Plataforma Educativa</h2>
 
 <a href="https://github.com/TU_REPO_EDUME">
-<img src="https://via.placeholder.com/900x400" width="90%" style="border-radius:10px;">
+<img src="https://via.placeholder.com/800x350" width="100%" style="max-width:800px; border-radius:12px;">
 </a>
 
 <br><br>
@@ -66,32 +67,29 @@ Sistema del Colegio Científico orientado a la gestión académica, usuarios y p
 
 </td>
 </tr>
-</table>
 
-<br>
-
-<!-- SEGUNDA FILA -->
-<table width="100%">
 <tr>
 
+<!-- TCU -->
 <td width="50%" align="center">
 
 <h3>🥈 Sistema de Minutas TCU</h3>
 
 <a href="https://github.com/TU_REPO_TCU">
-<img src="https://via.placeholder.com/500x300" width="95%" style="border-radius:10px;">
+<img src="https://via.placeholder.com/500x300" width="100%" style="max-width:400px; border-radius:12px;">
 </a>
 
 <p>Sistema para gestión de minutas y seguimiento de reuniones.</p>
 
 </td>
 
+<!-- BD -->
 <td width="50%" align="center">
 
 <h3>🥉 Sistema de Base de Datos</h3>
 
 <a href="https://github.com/TU_REPO_DB">
-<img src="https://via.placeholder.com/500x300" width="95%" style="border-radius:10px;">
+<img src="https://via.placeholder.com/500x300" width="100%" style="max-width:400px; border-radius:12px;">
 </a>
 
 <p>Modelado y consultas SQL optimizadas.</p>
@@ -99,25 +97,24 @@ Sistema del Colegio Científico orientado a la gestión académica, usuarios y p
 </td>
 
 </tr>
-</table>
 
-<br>
-
-<!-- TERCERA FILA -->
-<table width="100%">
 <tr>
-<td align="center">
+
+<!-- INVENTARIO -->
+<td colspan="2" align="center">
 
 <h3>📦 Sistema de Inventario</h3>
 
 <a href="https://github.com/TU_REPO_INV">
-<img src="https://via.placeholder.com/800x300" width="80%" style="border-radius:10px;">
+<img src="https://via.placeholder.com/800x300" width="100%" style="max-width:800px; border-radius:12px;">
 </a>
 
 <p>Control y gestión de inventario institucional.</p>
 
 </td>
+
 </tr>
+
 </table>
 
 <br>
